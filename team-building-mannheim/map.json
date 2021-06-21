@@ -193,7 +193,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":".\/Save-the-Date.pdf"
+                 "value":".\/Safe-the-Date.pdf"
                 }],
          "type":"tilelayer",
          "visible":true,
