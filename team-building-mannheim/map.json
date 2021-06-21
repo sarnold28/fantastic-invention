@@ -404,12 +404,12 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"A perfect map for your team buildings or creative events. 3 meeting rooms, 5 spaces with 5 different ambiences, an art area, a game zone, a music place...\n\nSuitable from 20 to 60 people."
+         "value":"Custom adaptation for Mannheim Business School"
         }, 
         {
          "name":"mapImage",
          "type":"string",
-         "value":"team-building.png"
+         "value":"map.png"
         }, 
         {
          "name":"mapLink",
@@ -419,7 +419,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"Team Building"
+         "value":"Team Building Mannheim"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.5.0",
