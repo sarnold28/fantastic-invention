@@ -101,7 +101,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/tetris.com\/play-tetris"
+                 "value":"https:\/\/codepen.io\/hankuro\/embed\/pWjBgZ?default-tab=result&theme-id=default"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
